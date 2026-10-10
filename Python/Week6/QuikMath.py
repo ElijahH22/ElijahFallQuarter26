@@ -10,10 +10,11 @@ print(difference)
 
 def multiply(num1, num2):
     return (num1*num2)
-product = multiply (3*7)
+product = multiply (3, 7)
 print(product)
 
 def divide(num1, num2):
     return num1/num2
 quotient = divide (14, 2)
 print(quotient)
+
